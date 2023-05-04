@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Some of the BlishHUD references
+src/Copy Pasta/*.dll
+src/Copy Pasta/mgfxc.*
+src/Copy Pasta/SharpDX*
