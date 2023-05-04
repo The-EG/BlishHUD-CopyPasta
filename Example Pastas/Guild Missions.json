@@ -1,0 +1,14 @@
+{
+	"Guild Puzzles": {
+		"Langmar's Estate": {
+			"Waypoint": "[&BPgGAAA=]",
+			"The Courtyard (Rock, Paper, Scissors)": "Bow beats Sword, Sword beats Staff, Staff beats Bow",
+			"The Gallery (Paintings & Emotes)": "Emotes: /sit, /point, /dance, /wave, /salute, /bow"
+		}
+	},
+	"Guild Bounties": {
+		"Brekkabek (Harathi Hinterlands, Seraph Observers Waypoint)": "[&BGIAAAA=]",
+		"Poobadoo (Kessex Hills, Irek Tradecamp Waypoint)": "[&BAoAAAA=]",
+		"Trillia Midwell (Fields of Ruin, Hawkgates Waypoint)": "[&BNMAAAA=]"
+	}
+}

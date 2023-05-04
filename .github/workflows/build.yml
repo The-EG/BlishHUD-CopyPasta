@@ -1,0 +1,34 @@
+name: Build Copy Pasta
+
+on:
+  push:
+    branches:
+      - main
+  
+jobs:
+  build-vs-solution:
+    runs-on: windows-2019
+
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v3
+
+      - name: Add msbuild to PATH
+        uses: microsoft/setup-msbuild@v1.1
+
+      - name: Restore referenced packages
+        run: msbuild "src\Copy Pasta.sln" -t:restore -p:RestorePackagesConfig=true
+
+      - name: Build VS Solution
+        run: msbuild "src\Copy Pasta.sln" -t:rebuild -property:Configuration=Release
+
+      - name: Copy module up
+        run: xcopy ".\src\Copy Pasta\bin\Release\Copy Pasta.bhm" .
+    
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: Copy Pasta
+          path: |
+            Copy Pasta.bhm
+            Example Pastas/*.json

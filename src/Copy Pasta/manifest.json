@@ -1,0 +1,18 @@
+{
+	"name": "Copy Pasta",
+	"description": "Made specifically for guild officers of The Guard [TG]!\n\nFrom guild recruitment messages to event instructions, keep all those random copypastas in one easy to use location! Edit the json files directly in this modules data directory to add or change the pastas.\n\n -- Taylor a.k.a. Bilrap",
+	"version": "0.1.0rc1",
+	"namespace": "theeg.copypasta",
+	"package": "Copy Pasta.dll",
+	"manifest_version": 1,
+	"author": {
+		"name": "Taylor Talkington",
+		"username": "TheEG.5873",
+		"url": "https://github.com/The-EG"
+	},
+	"directories": [ "copypasta" ],
+	"enabled_without_gw2": false,
+	"dependencies": {
+		"bh.blishhud": ">=1.0.0"
+	}
+}
