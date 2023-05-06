@@ -6,11 +6,9 @@ using Blish_HUD.Settings;
 using Microsoft.Xna.Framework;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using SharpDX.Text;
 using System;
 using System.ComponentModel.Composition;
 using System.IO;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace CopyPasta
@@ -39,6 +37,7 @@ namespace CopyPasta
         }
 
         protected override async Task LoadAsync() {
+            pastaMenu = new ContextMenuStrip();
             await LoadPasta();
         }
 
@@ -56,11 +55,14 @@ namespace CopyPasta
                 pastaMenu.Show(moduleIcon);
             };
 
-            /*
+            
             contextMenu = new ContextMenuStrip();
-            contextMenu.AddMenuItem("Reload Pasta");
+            ContextMenuStripItem reload = contextMenu.AddMenuItem("Reload CopyPastas");
+            reload.Click += delegate {
+                LoadPasta();
+            };
             moduleIcon.Menu = contextMenu;
-            */
+            
             base.OnModuleLoaded(e);
         }
 
@@ -95,10 +97,11 @@ namespace CopyPasta
         }
 
         private async Task LoadPasta() {
-            string pastaFolder = directoriesManager.GetFullDirectoryPath("copypasta");
-            pastaMenu = new ContextMenuStrip();
+            pastaMenu.ClearChildren();
 
-            logger.Info($"Loading Pasta from {pastaFolder}...");
+            string pastaFolder = directoriesManager.GetFullDirectoryPath("copypasta");
+
+            logger.Debug($"Loading Pasta from {pastaFolder}...");
 
             string[] files = Directory.GetFiles(pastaFolder, "*.json");
 
