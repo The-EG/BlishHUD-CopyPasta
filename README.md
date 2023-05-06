@@ -27,8 +27,13 @@ The basic format is:
     },
     "A third item": "yet more text!"
   },
-  "An item in the root menu": "foo and bar"
+  "An item in the root menu": "foo and bar",
+  "An multiline copypasta": "A longer copypasta that has multiple lines.\nThis is a second line."
 }
 ```
 
 Menus can be nested. There is no checking for duplication between files. If multiple files define the same menu, multiple menus with the same name (but possibly different children) will be defined.
+
+## Reloading CopyPastas
+
+After editing the json files you can right click on the CopyPasta icon in game and select 'Reload CopyPastas.' This will rebuild the menus for all files without the need to restart BlishHUD.
