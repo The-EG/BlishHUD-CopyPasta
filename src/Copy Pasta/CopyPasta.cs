@@ -48,7 +48,8 @@ namespace CopyPasta
         protected override void OnModuleLoaded(EventArgs e) {
             moduleIcon = new CornerIcon() {
                 Icon = contentsManager.GetTexture(@"copy-pasta.png"),
-                Priority = "CopyPasta".GetHashCode()
+                Priority = "CopyPasta".GetHashCode(),
+                BasicTooltipText = "Copy Pasta"
             };
 
             moduleIcon.Click += delegate {
