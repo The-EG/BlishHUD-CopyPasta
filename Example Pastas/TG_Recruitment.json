@@ -1,14 +1,24 @@
 {
 	"TG Recruitment": {
-		"Awesome": "Do you like to party OR solo? Are you Awesome? Join The Guard's 5 Guild Community! [TG] | PvX| Casual yet organized | Multiple Weekly Events | Giveaways | Active in game & Discord | DM for info!",
-		"Up Late": "Up late? Not late for you? Join The Guard's 5 Guild Community! |PvX| Casual yet organized | Many Weekly Events | Giveaways | All Content | Chats and Discord | DM for info!",
-		"Shinies": "Do you love shinies? Are you a skritt at heart? Then join The Guard [TG]! Now recruiting!| PvX| Casual yet organized | Multiple Weekly Events | Giveaways | Active in game & Discord | DM for info!",
-		"All Levels": "The Guard [TG] is recruiting all levels & experience! Join The Guard's 5 Guild Community! |PvX| Casual yet organized | Many Weekly Events | Giveaways | All Content | Chats and Discord | DM for info!",
-		"Counting": "You can count on TG like 1, 2, 3: The Guard [TG] is recruiting all levels and experience! | PvX| Casual yet organized | Multiple Weekly Events | Giveaways | Active in game & Discord | DM for invite!",
-		"New or Not": "New, Experienced, or Returning player? Join The Guard's 5 Guild Community! |PvX| Casual yet organized | Many Weekly Events | Giveaways | All Content | Chats and Discord | DM for invite!",
-		"Quaggans": "Do you want to protect the quaggans? Then you belong in The Guard! | PvX| Casual yet organized | Multiple Weekly Events | Raids | PvP | Giveaways | Active in game & Discord | DM for info!",
-		"Silverwastes": "Silverwastes metas every Thursday evening! Join The Guard's 5 Guild Community! [TG] | PvX| Casual yet organized | Multiple Weekly Events | Giveaways | Active in game & Discord | DM for info!",
-		"LFG": "Join The Guard's 5 Guild Community! [TG] |PvX| Casual yet organized | Many Weekly Events | Giveaways | Chats and Discord | All content | WvW on FC",
-		"WvW": "The Guard [TG] is recruiting all levels & experience! Join the 2k+ Guard community! PvX| Multiple weekly WvW runs on FC from beginner to excelling |Giveaways |Active in game & Discord |DM for info!"
+		"General": {
+			"Awesome": "Do you like to party OR solo? Are you Awesome? Join The Guard's 5 Guild Community! [TG] | PvX| Casual yet organized | Multiple Weekly Events | Giveaways | Active in game & Discord | DM for invite!",
+			"Shinies": "Do you love shinies? Are you a skritt at heart? Then join The Guard [TG]! Now recruiting!| PvX| Casual yet organized | Multiple Weekly Events | Giveaways | Active in game & Discord | DM for invite!",
+			"All Levels": "The Guard [TG] is recruiting all levels & experience! Join The Guard's 5 Guild Community! |PvX| Casual yet organized | Many Weekly Events | Giveaways | All Content | Chats and Discord | DM for invite!",
+			"Counting": "You can count on TG like 1, 2, 3: The Guard [TG] is recruiting all levels and experience! | PvX| Casual yet organized | Multiple Weekly Events | Giveaways | Active in game & Discord | DM for invite!",
+			"New or Not": "New, Experienced, or Returning player? Join The Guard's 5 Guild Community! |PvX| Casual yet organized | Many Weekly Events | Giveaways | All Content | Chats and Discord | DM for invite!",
+			"Coffee": "Do you need more coffee than a caffinated skritt? Us too! Join The Guard! |PvX| Casual yet organized | Many Weekly Events | 5 Guilds | All Content | Giveaways | Active chat & Discord | DM for invite!",
+			"Quaggans": "Do you want to protect the quaggans? Then you belong in The Guard! | PvX| Casual yet organized | Multiple Weekly Events | Raids | PvP | Giveaways | Active in game & Discord | DM for invite!"
+		},
+		"Situational recruiting": {
+			"Up Late": "Up late? Not late for you? Join The Guard of Cantha[TG]! 5 guild community! |PvX| Casual yet organized | Many Weekly Events | Giveaways | All Content | Active in game & Discord | DM for invite!",
+			"Raids Strikes": "Join The Guard of Elona [TG]! Raids and Strikes! Beginner to Expert! |PvX| Casual yet organized | Many Weekly Events | Giveaways | All Content | Active in game & Discord | DM for invite!",
+			"Silverwastes": "Silverwastes metas every Thursday evening! Join The Guard's 5 Guild Community! [TG] | PvX| Casual yet organized | Multiple Weekly Events | Giveaways | Active in game & Discord | DM for invite!",
+			"LFG Guild Plaza": "Join The Guard's 5 Guild Community! [TG] |PvX| Casual yet organized | Many Weekly Events | Giveaways | Raids & Strikes | WvW on FC | Chats and Discord | All content",
+			"WvW": "The Guard [TG] is recruiting all levels & experience! Join the 2k+ Guard community! PvX| Multiple weekly WvW runs on FC from beginner to excelling |Giveaways |Active in game & Discord |DM for invite!",
+			"PvP": "Friday night fights! Join the Guard of Ascalon! [TG] | PvX| Casual yet organized | Multiple Weekly Events | Giveaways | Active in game & Discord | DM for invite!"
+		},
+		"Holiday recruiting": {
+			"May 4th": "May the Fourth be with you! Join The Guard's 5 Guild Community! |PvX| Casual yet organized | Many Weekly Events | Giveaways | WvW on FC | All Content | Active in game & Discord | DM for invite!"
+		}
 	}
 }
