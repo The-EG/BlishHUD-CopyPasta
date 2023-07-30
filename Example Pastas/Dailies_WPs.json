@@ -1,0 +1,137 @@
+{
+    "Dailies":{
+        "Forager": {
+            "Ascalon": "[&BMcDAAA=] - Potato patch to the south",
+            "Kryta": {
+                "Beeltetun":"[&BPoAAAA=] - Run south, there are lettuce patches in the fields there.",
+                "Cereboth": "[&BBIAAAA=] - Go south-east until you reach the strawberry patch near the cliff edge."
+            },
+            "Maguuma (Jungle)": {
+                "Akk Wilds": "[&BEIAAAA=] - To the North is a platform with a farm",
+                "Kraitbane Haven": "[&BEABAAA=] - A field of lettuce northwest of the waypoint, in The Rowanwoods."
+            },
+            "Orr": {
+                "Camp Reclamation [LWS3]": "[&BO8JAAA=] - Oysters and coral in the ocean north of the waypoint and below Pilaster Rock.",
+                "Plinth Timberland": "[&BFgGAAA=] - Several nodes south. There is a patch of 8 Artichokes to the northeast."
+            },
+            "Shiverpeaks": {
+                "Sorrow's Eclipse [LWS3]": "[&BH0JAAA=] - Fresh Winterberries to the northwest",
+                "Demon's Maw": "[&BOYAAAA=] - Run north, 7 permanent grape nodes west of Greybeard's Landing.",
+                "Valance Tutory": "[&BEwCAAA=] - There is a patch of 8 Cauliflower nodes on the mountainside west of the defunct Waypoint [&BFECAAA=]."
+            },
+            "Maguuma Wastes": "[&BIYHAAA=] - North, at the skritt farm.",
+            "Heart of Maguuma": "[&BOAHAAA=] - Jump off the platform north of the waypoint, then fall and glide to the northeast-east, while avoiding the branches. Deep below, on the ground level there are 8 permanent Flax nodes.",
+            "Desert": {
+                "Atholma [LWS4]": "[&BEMLAAA=] - There are many vegetable fields east of the village.",
+                "Temple of Kormir" :"[&BEAKAAA=] - North, jump into the canyon and try to avoid the Hydras.",
+                "Brightwater": "[&BJEKAAA=] - 6 Strawberry nodes above the small waterfall in the north end of the Pricklepatch Hollow cave.",
+                "Augury's Shadow": "[&BFMKAAA=] - Various plant nodes around the waypoint and First Camp."
+            },
+            "End of Dragons": {
+                "Village": "[&BJ4MAAA=] - South of waypoint. West of [&BMgMAAA=]",
+                "Qunkai": "[&BNQMAAA=] - Northwest of waypoint. Follow north road heading out of the village, drop down to patch of plants in the river."
+            }
+        },
+        "Lumberer": {
+            "Ascalon": {
+                "Apostate": "[&BB0CAAA=] - There are usually quite a few trees in the area around the waypoint.",
+                "GuardPoint Decimus": "[&BJgDAAA=] - Multiple trees on road east",
+                "Feritas": "[&BJcDAAA=] - Run east, usually trees there"
+            },
+            "Kryta": {
+                "Wynchona": "[&BKgAAAA=] - There is always a lot of trees around this waypoint, especially to East",
+                "Arcallion": "[&BMMAAAA=] - Go South out the cave and West, there is usually a lot of trees.",
+                "Lionbridge": "[&BJsDAAA=] - Some trees to the west and north."
+            },
+            "Maguuma (Jungle)": "[&BNMCAAA=] - Lots of nodes found south of the waypoint",
+            "Orr": {
+                "Pagga's": "[&BKYCAAA=] - West there are loads of trees near the statue of Melandru",
+                "Reclamation [LWS3]": "[&BO8JAAA=] - Plenty of trees around Camp Reclamation."
+            },
+            "Shiverpeaks": {
+                "Serpent": "[&BEUCAAA=] - Up to five trees around the waypoint. If there aren't enough trees, go to [&BEsCAAA=] as a backup.",
+                "Gyre Rapids": "[&BEsCAAA=] - Usually some trees around here",
+                "Earthshake": "[&BHoCAAA=] - There are usually some nodes to the west and northwest."
+            },
+            "Maguuma Wastes": {
+                "Camp Resolve": "[&BH8HAAA=] - No particular area, but follow the south path and look beyond the Red Rock Bastion.",
+                "Prosperity": "[&BHoHAAA=] - No particular area, just do a circle around Prospect Valley. There can be up to 3-4 wood nodes in both its eastern and western sides."
+            },
+            "Heart of Maguuma": {
+                "Eastwatch": "[&BGwIAAA=] - Should be various nodes in the general area. However, lots of mobs around as well.",
+                "Castaway Circus [LWS3]": "[&BHgJAAA=] - If you have Ember Bay unlocked, there are some nodes south of the waypoint (as well as other parts of the island)."
+            },
+            "Desert": "[&BJ0KAAA=] - No particular area, walk around the area in a circle",
+            "End of Dragons": {
+                "Arborstone": "[&BGMNAAA=] - Outside of Arborstone (The Echovald Wilds Exit)",
+                "Lutgardis Plaza": "[&BCANAAA=] - South across the channel take a teleporter to 'Ministry Ward: Eastern Gardens', 6 nodes spread around the Garden of the Celestials"
+            }
+        },
+        "Miner": {
+            "Ascalon": {
+                "Helliot Mine": "[&BEsBAAA=] - Rich iron above and to the south",
+                "Memorial": "[&BKYDAAA=] - To the northeast"
+            },
+            "Kryta": {
+                "Icegate": "[&BJMBAAA=] - Plenty of mining veins in the area, Rich Silver near the waypoint and Rich Iron to the west below Overlook Caverns, south-south-east of the Vista",
+                "Cereboth": "[&BBIAAAA=] - Rich node, either Iron or Silver, in the cave at the bottom of the waterfall to the north",
+                "Phinney": "[&BPMAAAA=] - Run north, Rich Copper Vein under the hill with Ettin."
+            },
+            "Maguuma (Jungle)": "[&BGMAAAA=] - Rich Iron to the west, halfway down the canyon",
+            "Orr": {
+                "Waste Hollows": "[&BKgCAAA=] - Rich Mithril node on the rocks, north of waypoint to the north-east of [&BJACAAA=]",
+                "Plinth Timberland": "[&BFgGAAA=] - Mithril nodes to the south all the way to [&BPACAAA=]. (There might be some in the Lightfoot Passage cave too.)"
+            },
+            "Shiverpeaks": {
+                "Snowhawk Landing": "[&BL8AAAA=] - There is a Rich Iron Vein in the cave to the south.",
+                "Thistlereed": "[&BFECAAA=] - There is a Rich Platinum Vein in an underwater cave to the west."
+            },
+            "Maguuma Wastes": {
+                "Camp Resolve": "[&BH8HAAA=] - Follow the south path west, usually a rich node near the Vinewrath area.",
+                "Prosperity": "[&BHoHAAA=] - Many Mithril and Quartz nodes to the south."
+            },
+            "Heart of Maguuma": {
+                "Ley-Line Confluence": "[&BPUHAAA=] - Several nodes all around the waypoint. If not, try Rata Novus Lane, possible Rich Mithril Vein there north of Empty Rata Novus Golem Suit.",
+                "Ground Zero [LWS3]": "[&BEEJAAA=] - Lots of Mithril and Bloodstone Crystals around the edges."
+            },
+            "Desert": {
+                "Augury's Shadow": "[&BFMKAAA=] - Head east to the Help Adisa collect Slivers of Vlast from veteran Branded Heart. Mine any regular nodes, but also destroy the Brand Battleshards. Upon destruction they become gathering nodes that count toward the daily.",
+                "Destiny's Gorge": "[&BJMKAAA=] - On the cliffs above the waypoint and further east towards Fortunate Strike mine. Springer mount will be useful to get there quickly."
+            },
+            "End of Dragons": {
+                "Arborstone": "[&BGMNAAA=] - Outside of Arborstone (The Echovald Wilds Exit)",
+                "Frozen Sea": "[&BPEMAAA=] - Exit the bluff and run north, multiple nodes around (and on the way to) Harvest Temple"
+            }
+        },
+        "Vista": {
+            "Ascalon": "[&BKYDAAA=] - To the northeast",
+            "Kryta":{
+                "Beetletun": "[&BPoAAAA=] - To the southeast",
+                "Krytan": "[&BPgAAAA=] - West, up the hill."
+            },
+            "Maguuma (Jungle)":{
+                "Apprentice Waypoint": "[&BLcEAAA=] - North, jump up from the north side of the structure.",
+                "Upper Commons": "[&BLoEAAA=] - Just run northeast, no jumping required."
+            },
+            "Orr": {
+                "Fort Trinity": "[&BO4CAAA=] - To the west, on the airship prow",
+                "Gavbeorn's": "[&BBoDAAA=] - Up the wooden tower and coral. Easy with springer. Waypoint is sometimes contested.",
+                "Camp Reclamation [LWS3]": "[&BO8JAAA=] - Very quick up the south tower with a springer. Otherwise the Fort Trinity one is faster."
+            },
+            "Shiverpeaks": "[&BI4DAAA=] - North, one jump",
+            "Maguuma Wastes": "[&BH8HAAA=] - On top of the buildings to the west",
+            "Heart of Maguuma": {
+                "Jaka Itzel": "[&BOAHAAA=] - Next to the waypoint. Just climb the branch, you don't actually need to jump to the Vista.",
+                "Castaway Circus [LWS3]": "[&BHgJAAA=] - Next to the waypoint, just up a few steps."
+            },
+            "Desert": {
+                "Amnoon": "[&BLsKAAA=] - South, much quicker to reach with Springer.",
+                "Temple of Kormir": "[&BEAKAAA=] - West on the scaffolding."
+            },
+            "End of Dragons": {
+                "Monastery": "[&BL8MAAA=] - South",
+                "Village": "[&BJ4MAAA=] - South up the stairs"
+            }
+        }
+    }
+}
