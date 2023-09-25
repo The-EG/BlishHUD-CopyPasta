@@ -1,9 +1,36 @@
 {
 	"Guild Puzzles": {
+		"Go In/Don't Interact": "Go in but do not interact!",
+		"Don't Checkpoint": "If you die, do not take checkpoint. You will not be able to catch up to us.",
+		"MOVE THROUGH THE DOOR!": "MOVE THROUGH THE DOOR!",
+		"Don't enter the next room": "Don't enter the next room, wait outside",
+		"Proxemics Lab": {
+			"Waypoint": "[&BPgGAAA=]",
+			"Shinies Room": "Search through the junkpiles and find shinies! Bring them to the center. If you get a bucket, throw it at skritt!!",
+			"Jumping Portions": "A small jumping puzzle, if you die, wait for a rez. There will be a mesmer portal at the end if you can't make it.",
+			"Matching Animals 1": "Match the animals. On the outside there are doors with signs above them. They will light up with different animals. Along the inside there are console also with animals.",
+			"Matching Animals 2": "Use the console to change into the corresponding animal and run into the matching door. If the door is lit up blue it has already been done.",
+			"Maze 1": "Time to be the mouse! There are 6 powersources in the maze, find them and bring them to the exit. The exit is at the NW (top left) of the map.",
+			"Maze 2": "I will be putting down markers for the power sources as I can. If you find a wall that is targetable, you can break it down. Some areas are only accessible this way."
+		},
 		"Langmar's Estate": {
 			"Waypoint": "[&BPgGAAA=]",
 			"The Courtyard (Rock, Paper, Scissors)": "Bow beats Sword, Sword beats Staff, Staff beats Bow",
 			"The Gallery (Paintings & Emotes)": "Emotes: /sit, /point, /dance, /wave, /salute, /bow"
+		},
+		"Angvar's Trove": {
+			"Waypoint": "[&BP8GAAA=]",
+			
+			"Icicle Room 1": "The next room has icicles hanging fromt the ceiling and steam vents on the floor. Voluteers and I will shoot down icicles, everyone should pick one up and HOLD ON TO IT. Get near a steam vent on this end of the room. and Wait",
+			"Icicle Room 2": "When I say to, everyone will put their icicles into the vents. Those of us up top will run to the middle icicle and repeat shooting down small icicles. This time everyone will pick them up and immediately put them in the other set of vents.",
+			"Spam Torches!": "Spam torches",
+
+			"Keg Run 1": "Pick up the furthest keg, at arrow, run up the left path at star. Only 1 person needs to use their keg on the first wall. After that, EVERYONE get a new keg.",
+			"Keg Run 2": "Then, at each wall only 1 person should use a keg until we get to the last wall, where everyone should use their kegs to break though.",
+
+			"Spirit Totems 1": "I need 6 people to do torches, if you would like to do that, stand at this torch.",
+			"Spirit Totems 2": "Each torch person will stand at a shrine (markers) and use it to light their torches. I will be carrying the egg around to light the shrines.",
+			"Spirit Totems 3": "Once your torch is lit, go stand by the corresponding shrine. ie. Raven -> Raven, Dolyak -> Dolyak, etc. When all torches are lit, I will call out to light the shrines at the same time."
 		}
 	},
 	"Guild Bounties": {
