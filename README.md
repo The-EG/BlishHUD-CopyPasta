@@ -8,9 +8,11 @@ From guild recruitment messages to event instructions, keep all those random cop
 
 1. Download the module file, `Copy Pasta.bhm` from the assets of the [latest release](https://github.com/The-EG/BlishHUD-CopyPasta/releases/latest).
 2. Place this file into BlishHUD's `modules` folder. You can find this by right clicking on the BlishHUD icon in your system tray and selecting `Open Settings Folder`. This is typically `My Documents\Guild Wars 2\addons\blishhud\modules`.
-3. Place any pasta jsons into the `copypasta` folder. This folder is in the same place as the `modules` folder above. If you haven't run BlishHUD since installing the module, you may need to create it. Or you can restart BlishHUD, find this module in the 'Manage Modules' section of BlishHUD settings, click the 'gear' icon next to the "Enable Module" button and select "Open 'copypasta' Directory".
+3. Restart BlishHUD (right click the icon in game or the icon in the system tray).
+4. Enable the module: Open the main BlishHUD window, go to Manage Modules, find Copy Pasta, and click the Enable Module button.
+5. Place any pasta jsons into the `copypasta` folder. This folder is in the same place as the `modules` folder above. You also open this folder by clicking the 'gear' icon next to the "Enable Module" button and select "Open 'copypasta' Directory".  
   ![Copy Past Directory](extra/CopyPastaDir.png)
-4. Restart BlishHUD
+6. Reload CopyPastas: right click on the CopyPasta icon in game and select 'Reload CopyPastas' or restart BlishHUD.
 
 ## Custom CopyPastas
 
