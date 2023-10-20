@@ -89,7 +89,7 @@ namespace CopyPasta
                     };
 
                 } else {
-                    logger.Error("Can't parse json, expected array or string.");
+                    logger.Error("Can't parse json, expected object or string.");
                     return;
                 }
 
@@ -113,7 +113,7 @@ namespace CopyPasta
 
                         parsePasta(json, pastaMenu);
                     } catch (Exception ex) {
-                        logger.Warn($"Couldn't load json from {file}.");
+                        logger.Warn($"Couldn't load json from {file}. {ex.Message}");
                     }
                 }
             }
